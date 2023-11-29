@@ -8,9 +8,6 @@ import java.io.PrintStream;
  * ChangeProfileGUI
  * <p>
  * GUI for sellers and customers to edit their profile info
- *
- * @author Swara Savagaonkar, CS180 Project 05
- * @version 12/05/22
  */
 public class ChangeProfileGUI extends JComponent implements Runnable {
 

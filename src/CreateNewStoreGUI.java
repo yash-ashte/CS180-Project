@@ -8,9 +8,6 @@ import java.io.PrintStream;
  * CreateNewStoreGUI
  * <p>
  * GUI for sellers to create a new store
- *
- * @author Swara Savagaonkar, CS180 Project 05
- * @version 12/05/22
  */
 public class CreateNewStoreGUI extends JFrame implements Runnable {
 

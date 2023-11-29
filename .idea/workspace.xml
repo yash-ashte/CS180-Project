@@ -5,17 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="731be214-d297-434c-a34b-d1fe47a6d5ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddProductGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChangeProfileGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerCartInfoGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerMarketplaceGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EditProductGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marketplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarketplaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PurchaseHistoryGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SaleHistoryGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SellerStoreGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SellerStoreListGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SellerStoreStatisticsGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SellerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppingCartGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SignUpGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StoresDash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loginGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddProductGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddProductGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChangeProfileGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChangeProfileGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreateNewStoreGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateNewStoreGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YrNOg71nnaDLMSuHrH8l7d5Mrx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
